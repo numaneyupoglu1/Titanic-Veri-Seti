@@ -25,5 +25,6 @@ Titanic yolcu veri seti kullanılmıştır. Veri seti yolcuların yaş, cinsiyet
 ## Sonuç
 Bu çalışma ile Titanic yolcuları hakkında temel istatistiksel analiz ve görselleştirme yapılmıştır.# Titanic-Veri-Seti
 Titanik Veri Seti
-Canlı Rapor
+
+##Canlı Rapor
 https://numaneyupoglu1.github.io/Titanic-Veri-Seti/titanic.html
