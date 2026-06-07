@@ -27,4 +27,4 @@ Bu çalışma ile Titanic yolcuları hakkında temel istatistiksel analiz ve gö
 Titanik Veri Seti
 
 ##Canlı Rapor
-https://numaneyupoglu1.github.io/Titanic-Veri-Seti/titanic.html
+
